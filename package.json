@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "director": "*",
-    "mysql": "*",
-    "cluster": "*",
+    "cli": "*",
+    "debug": "*",
+    "babel-polyfill": "*",
     "babel-register": "*",
     "babel-preset-es2015": "*"
   },
