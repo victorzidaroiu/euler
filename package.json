@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "director": "*",
+    "mysql": "*",
+    "cluster": "*",
+    "babel-register": "*",
+    "babel-preset-es2015": "*"
+  },
+  "scripts": {
+    "start": "nohup node ./index.js"
+  }
+}
