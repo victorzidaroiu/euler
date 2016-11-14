@@ -1,1 +1,7 @@
-To run a script: node index.js problem_number [parameters]
+## Euler problems
+
+This contains solutions to some of the problems on https://projecteuler.net.
+
+## Run
+
+```npm start <problem_number> [parameters] ```
